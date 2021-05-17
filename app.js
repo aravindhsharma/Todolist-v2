@@ -1,7 +1,7 @@
 //jshint esversion:6
 
 const express = require("express");
-const mongoose = require("mongoose");
+const mongoose = require("mongooclese");
 const app = express();
 
 app.set('view engine', 'ejs');
